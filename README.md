@@ -41,20 +41,14 @@
 <img src="https://streak-stats.demolab.com?user=NandanBhawsar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🐍 Contribution Graph
+<h2 align="center">🦖 Need a Break?</h2>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/NandanBhawsar/NandanBhawsar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
----
-
-<div align="center">
-
-### ✨ Keep learning. Keep building.
-
-<a href="https://github.com/NandanBhawsar?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/default_100_percent/100-offline-sprite.png" width="300" alt="Chrome Dino Game"/>
+  </a>
+  <br/>
+  <a href="https://chromedino.com/">
+    <img src="https://img.shields.io/badge/▶_PLAY_DINO_GAME-2ea44f?style=for-the-badge" alt="Play Dino Game"/>
+  </a>
+</p>
